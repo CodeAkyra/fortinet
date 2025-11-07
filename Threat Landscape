@@ -1,5 +1,33 @@
+Overview
+In this course, you will learn about the cyberthreat landscape. This landscape includes the threats that endanger computer networks, the cast of bad actors who are behind these threats, and the cybersecurity first principles that, if followed, can keep you and your computer network safe. This course is designed as an entry point for individuals who are new to cybersecurity.
+
 I'll learn how to,
 - Describe cybersecurity and the principles of information security
 - Identify the types of bad actors, their methods, and countermeasures used against them
 - List different social engineering techniques
 - Describe malware types and their delivery methods
+
+
+
+NOTE
+Cybersecurity is the collective methods, technologies, and processes that protect computer systems, networks, and the information they contain.
+Note that cybersecurity is more than technology. In addition to technology, It is also the correct actions and behaviors of people that keep computer systems safe.
+
+What is Cybersecurity?
+  Is is the practice of protecting computer networks, devices, and information from damage, loss or unauthorized access.
+  It protects digital information from cyberthreats.
+  The protection of information means the preservation of confidentiality, integrity, and availability (CIA) of information in the cyberspace.
+  Cybersecurity professionals act to protect servers, endpoints, databases, and networks by finding security gaps and misconfigurations that create vulnerabilities.
+  Cybersecurity can be divided into five categories:
+    - Critcal Infrastructure
+    - Application Security
+    - Network Security
+    - Internet of Things (IoT) Security
+    - Cloud Security
+Why is Cybersecurity Important?
+  When the internet was introduced, everyone's life changed.
+  Easy communication, remote access, the availability of files via cloud, increases the productivity of a group or a person.
+  Without cybersecurity, user data and files over the internet are at risk.
+
+  
+  
