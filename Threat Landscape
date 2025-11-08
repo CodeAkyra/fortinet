@@ -39,7 +39,10 @@ Information Security and Information Systems Security
   IT security scrutinizes all information within an organization in order to categorize and prioritize its sensitivity.
   Some informations are labelled "UNPROTECTED", meaning that no controls are necessary, while some information is labelled as "PROTECTED", meaning that some level of protection and control is required.
   Depending on the protected information's criticality, it could be labelled "CONFIDENTIAL", "SECRET", or "TOP SECRET".
-  Information systems security is a part of InfoSec.
+  
+  "INFORMATION SYSTEMS SECURITY" is a part of InfoSec.
   It is defined as the protection of information systems against "unauthorized access", "modification", "destruction", or the "denial of access" to authorized users.
   Information systems include "devices", "computer networks", "physical locations that store or transmit sentitive information".
   The form of information can be digital or physical.
+
+  Cybersecurity is a subset of Information Systems Security, while Information Systems Security is a subset of Information Security (InfoSec).
